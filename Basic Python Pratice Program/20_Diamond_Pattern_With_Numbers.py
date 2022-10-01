@@ -1,3 +1,5 @@
+#github - akrishna5
+
 def pattern(n):
     k = 2 * n - 2
     x = 0
